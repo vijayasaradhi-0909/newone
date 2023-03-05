@@ -1,2 +1,3 @@
 # newone
-first repository after proper Github knowledge
+first repository after proper Github knowledge parrahhh....
+this is my first commit
