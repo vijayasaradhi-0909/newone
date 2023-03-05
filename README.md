@@ -1,2 +1,2 @@
 # newone
-first repository after proper Github knowledge
+first repository after proper Github knowledge parrahhh....
